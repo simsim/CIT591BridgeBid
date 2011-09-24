@@ -1,7 +1,7 @@
 '''
 Unit Test for Bridge Bid
 
-@author: xinl@seas.upenn.edu, kishin@seas.upenn.edu
+@author: xinl, kishin
 '''
 
 from bridgebid import *
